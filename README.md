@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning React JS.
 - 💞️ I’m looking to collaborate on any front-end projects.
 - 📫 How to reach me:
-- https://www.instagram.com/
+- https://www.instagram.com/moiseslezano
 
 <!---
 moisesu05/moisesu05 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
